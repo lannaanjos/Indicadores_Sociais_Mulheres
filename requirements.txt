@@ -1,0 +1,7 @@
+jupyter
+pandas
+numpy
+scikit-learn
+torch
+xlrd
+torch --index-url https://download.pytorch.org/whl/cpu
